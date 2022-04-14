@@ -14,7 +14,7 @@
       <!-- Inicia codigo PHP-->
       <?php
 
-        /* asigna a la variable $metodo el tipo de metodo utilizado para acceder a la página*/
+        /* asigna a la variable $metodo el tipo de metodo utilizado  (post) para acceder a la página*/
         $metodo = $_SERVER["REQUEST_METHOD"];   
         
         echo "<H2> Método $metodo</H2>";
@@ -63,6 +63,10 @@
 
 
       ?>
+
+      <br>
+      <hr>
+      <a href="con_post.php">Volver a atrás</a>
     </CENTER>
   </body>
  </html>

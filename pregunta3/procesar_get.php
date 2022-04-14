@@ -71,6 +71,10 @@
 
 
       ?>
+
+            <br>
+      <hr>
+      <a href="con_get.php">Volver a atrás</a>
     </CENTER>
   </body>
  </html>

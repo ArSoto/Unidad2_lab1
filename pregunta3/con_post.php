@@ -39,6 +39,10 @@
         <p>* Los colores deben ser en formato HTML o nombres como: blue, red, salmon, green...</p>
         <INPUT TYPE="SUBMIT" value ="Enviar"> <INPUT TYPE="RESET">
       </FORM>
+
+      <br>
+      <hr>
+      <a href="index.html">Volver a atrás</a>
     </CENTER>
   </body>
  </html>

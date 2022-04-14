@@ -46,6 +46,12 @@
         <INPUT TYPE="RESET">
 
       </FORM>
+
+
+      <br>
+      <hr>
+      <a href="index.html">Volver a atrás</a>
+      
     </CENTER>
   </body>
  </html>

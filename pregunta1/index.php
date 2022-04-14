@@ -53,6 +53,14 @@
         
 
       ?>
+
+      <br>
+      <hr>
+      <a href="../">Volver a atrás</a>
+
+
+
     </center>
+
   </body>
 </html>
