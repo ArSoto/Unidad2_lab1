@@ -1,0 +1,54 @@
+html, body{
+height: 100%;
+}
+
+p{
+    text-align: justify-all;
+}
+
+h1{
+    color: red;
+
+}
+h2{
+    color: darkred;
+}
+
+/* Estilo de la tabla */
+
+table, tr, td{
+
+    border-collapse: 1px solid black;
+    border: 1px solid;
+    border-color: black;
+}
+
+/* Estilo para las imagenes */
+
+ img {
+     width:300px;
+     height:300px;  
+     border-radius:10%;
+     display: block;
+     margin-left: auto;
+     margin-top: auto;
+     margin-right: auto;  
+}
+
+
+
+
+/* Colores para la pregunta 2 */
+
+/*color fila 1 */
+   .color1{
+    background-color: white;
+    color: black;
+  }
+
+/*color fila 2 */
+  .color2{
+    background-color: black;
+    color: white;
+  }
+
